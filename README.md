@@ -3,4 +3,11 @@
 
 
 ### 사용 모델
-EfficientNet
+EfficientNet - b3
+
+
+### 사용 데이터
+Kaggle : facial_age
+
+### 학습 정확도
+59퍼센트
