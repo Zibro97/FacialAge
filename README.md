@@ -12,5 +12,5 @@
 ![AGE: 25~29](https://user-images.githubusercontent.com/60098124/124761989-58d95700-df6d-11eb-90c4-2d35c083387a.png)
 ![AGE:70~85](https://user-images.githubusercontent.com/60098124/124762107-7dcdca00-df6d-11eb-9854-0a0c1b2fb48b.png)
 
-# 학습 정확도 (30에폭 기준)
+# 학습 정확도 (Epoch 30 기준)
 ![Acc](https://user-images.githubusercontent.com/60098124/124762275-afdf2c00-df6d-11eb-9cc5-b63911c539e5.PNG)
